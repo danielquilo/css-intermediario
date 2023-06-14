@@ -3,7 +3,7 @@
 
 ### Aula 01
 # Position Relative 
-![Position Relative](Position-Relative.png)
+![Position Relative](./image/Position-Relative.png)
 #### Elementos com posicao relativa sao posionados em relacao a sua posicao original.Eles podem ser deslocados usando propriedades com top,right,bottom e left.
 
 
